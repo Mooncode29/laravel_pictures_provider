@@ -11,30 +11,28 @@
 			<div class="ui large secondary inverted pointing menu"></div>
 			<div class="ui text container">
 				<h1 class="ui inverted header">Pictures Provider</h1>
-				<h3>Les plus belles images pour de meilleurs projets</h3>
+				<h3>La solution image de tous vos projets</h3>
+				<div class="ui large secondary inverted pointing menu"></div>
 			</div>
 		</div>
 	</div>
 	<div class="ui vertical stripe segment">
-		<div class="ui middle aligned stackable grid container">
+		<div class="ui middle aligned grid container">
 			<div class="row">
-				<div class="eight wide column">
-					<h3 class="ui header">jujujuju</h3>
-					<p>kdfskgfsdkgsikgsdgsd</p>
+				<div class=" eight wide right floated column">
+					<h2 class="ui header">Comment faire pour changer la taille d'une image?</h2>
+					<p>Il suffit d'entrer la taille d'image que vous souhaitez (largeur et hauteur) à la fin de l'URL dans la barre https et d'appuyer sur la touche "Entrée" de votre clavier.<br>Vous obtiendrez alors, votre image redimentionnée.</p>
+					<br>
+					<br>
+					<div class="ui black segment">
+						<code>https://Pictures provider.fr/200/300</code>
+					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="four wide right floated column">
-					<img class="ui massive right floated" src="{{URL::asset('photos_simplon/DHP_7000.jpg')}}"> 
+				<div class="six wide left floated column">
+					<img class="ui left floated" src="{{URL::asset('photos_simplon/354.jpg')}}" alt=""> 
 				</div>
-			</div>
-			<div class="ui orange segment">
-				<p>hhhhhhhhhhhhhhhhhhhhh</p>
 			</div>
 		</div>
 	</div>
-
-
-
 
 	@stop
