@@ -28,7 +28,7 @@
 						<code>https://Pictures provider.fr/200/300</code>
 					</div>
 				</div>
-				<div class="six wide left floated column">
+				<div class="eight wide left floated column">
 					<img class="ui left floated" src="{{URL::asset('photos_simplon/354.jpg')}}" alt=""> 
 				</div>
 			</div>
