@@ -11,5 +11,5 @@
 |
 */
 
-
 Route::get('/', 'PhotoController@displayPhoto');
+
