@@ -29,7 +29,8 @@
 					</div>
 				</div>
 				<div class="eight wide left floated column">
-					<img class="ui left floated" src="{{URL::asset('photos_simplon/354.jpg')}}" alt=""> 
+					<img class="ui left floated" src="{{URL::asset('photos_simplon/DHP_7022.jpg')}}
+					" alt=""> 
 				</div>
 			</div>
 		</div>
